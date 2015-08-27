@@ -1,0 +1,28 @@
+
+	@font-face {
+  font-family: 'nazanin';
+  src:url('fonts/nazanin.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+body{
+	font-family:nazanin;
+
+}
+
+.div1{
+
+height:600px;
+ 
+}
+
+input[type="text"]{
+color: #000 ;
+}
+
+.btn{
+	border-radius: 0;
+}
+
+table {
+	direction:rtl;
+
+}
